@@ -1,1 +1,1 @@
-# Mutliple_Disease_Predicition_System__Web_App
+# Multiple_Disease_Prediction_System_Web_App
